@@ -1244,6 +1244,24 @@
 			]
 		},
 		{
+			"name": "Tint",
+			"details": "https://github.com/yyyc514/Tint",
+			"author": "jgoebel",
+			"readme": "https://raw.githubusercontent.com/yyyc514/Tint/master/README.md",
+			"labels": [
+				"utilities",
+				"terminal",
+				"console",
+				"command line"
+			],
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "TinTin++ Syntax Highlighter",
 			"details": "https://bitbucket.org/Mifuyne/tintin-script-syntax-highlighter",
 			"releases": [
